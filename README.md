@@ -33,3 +33,7 @@
 
 - Fuso Horário:  UTC/GMT -3 America/Sao_Paulo
 - Sistema de Inicialização: SystemD
+
+- GPT
+
+- LIBC
