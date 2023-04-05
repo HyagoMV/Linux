@@ -7,6 +7,7 @@
 - Terminal:   ?
 
 - Gerenciador de Arquivo: ?
+- Sistema de Arquivo:   EXT4
 - Gerenciador de Tarefas: ?
 
 - Arquitetura:    AMD64 | x86_64
@@ -22,7 +23,7 @@
 
 - Boot:   UEFI / EFIt
 
-- Sistema de Arquivo:   EXT4
+
 - Layout do Teclado: ABNT 2
 
 - Gerenciador de Audio: ?
