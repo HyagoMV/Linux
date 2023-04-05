@@ -7,6 +7,7 @@
 - Terminal:   ?
 
 - Gerenciador de Arquivo: ?
+- Gerenciador de Tarefas: ?
 
 - Arquitetura:    AMD64 | x86_64
 - CPU:            Intel® Core™ I5-4670 @ 3.40GHz - 3.80GHz
